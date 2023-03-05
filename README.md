@@ -1,5 +1,5 @@
 # Live-Face-Detection
-Machine learning model that will detect faces in real time built using the tensorflow function API.
+Machine learning model that will detect faces in real time built using the tensorflow functional API.
 
 In this repository you will find the code to collect, annotate, load, and feed images into a two part model that leverages VGG16. This model is one part classification and one part regression. It could be described as one part finding if the image containes as face and one part locating that face and rendering a bounding box.
 
