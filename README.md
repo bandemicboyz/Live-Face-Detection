@@ -5,4 +5,6 @@ In this repository you will find the code to collect, annotate, load, and feed i
 
 Alongside the main code I will also be including a "helper" file containing methods for visualization to help understand how some of the functionalities operate on each image. These code blocks can easily be implemented into the main code. 
 
+In my use case I only collected ninety images which I split into testing, training, and validation sets manually. If a different method is desired by whoever is using this you are welcome to leverage a sklearn train test split. 
+
 Built using libraries numpy,tensorflow,labelme,albumentation,uuid,json,time,matplotlib and opencv. 
